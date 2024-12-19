@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineering student backend developer from Tunisia</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU5MGV6NG84aXI5NWJnaHBzM3UyYnRvMnd0bTFsaWYzajB0OGRnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/200.webp" alt="Coding GIF" style="width: 400px; display: block; margin: 0 auto;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU5MGV6NG84aXI5NWJnaHBzM3UyYnRvMnd0bTFsaWYzajB0OGRnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/200.webp(https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif)" alt="Coding GIF" style="width: 400px; display: block; margin: 0 auto;" />
 </p>
 
 <p align="left">
