@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4e120abb-2010-4858-bc7b-5d967e5dee85)<h1 align="center">Hi 👋, I'm Mahmoud Bannouri</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Bannouri</h1>
 <h3 align="center">A passionate software engineering student backend developer from Tunisia</h3>
 
 <p align="center">
