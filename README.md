@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Bannouri</h1>
 <h3 align="center">A passionate software engineering student Full Stack developer from Tunisia</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" alt="Coding GIF" style="width: 400px; display: block; margin: 0 auto;" />
-</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mahmoudbannouri&label=Profile%20views&color=0e74b4&style=flat-square" alt="mahmoudbannouri" />
