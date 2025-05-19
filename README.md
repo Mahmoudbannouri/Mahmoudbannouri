@@ -11,8 +11,8 @@
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
 
-- 🔭 I’m currently working on **Angular Spring Boot projects**
-- 👯 I’m looking to collaborate on **backend projects**
+- 🔭 I’m currently working on **Ai agent**
+- 👯 I’m looking to collaborate on **Ai projects**
 - 👨‍💻 All of my projects are available at [https://github.com/Mahmoudbannouri](https://github.com/Mahmoudbannouri)
 - 📫 How to reach me **bannourimahmoud67@gmail.com**
 - 📄 Know about my experiences [https://mahmoudbannouri.vercel.app/](https://mahmoudbannouri.vercel.app/)
