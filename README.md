@@ -1,70 +1,104 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Bannouri</h1>
-<h3 align="center">A passionate software engineering student and full stack developer from Tunisia</h3>
+<h1 align="center">👋 Hi, I'm Mahmoud Bannouri</h1>
+<h3 align="center">🚀 Full Stack Developer | Software Architecture Enthusiast | AI Explorer from Tunisia 🇹🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoudbannouri&label=Profile%20views&color=0e74b4&style=flat-square" alt="mahmoudbannouri" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
 </p>
-
-- 🔭 I’m currently working on **AI agents and intelligent systems**
-- 🤖 I'm diving deep into **machine learning, LLMs, and AI integration in web apps**
-- 👯 I’m looking to collaborate on **AI-driven and full-stack projects**
-- 🌍 I'm passionate about building smart, scalable, and user-focused applications
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/Mahmoudbannouri)
-- 📫 Reach me at **bannourimahmoud67@gmail.com**
-- 🌐 Learn more about my experience on [my portfolio](https://mahmoudbannouri.vercel.app/)
-- ⚡ Fun fact: **I balance code with the gym 🏋️**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🧠 About Me
+
+- 🌱 Currently diving deep into **AI agents**, **LangChain**, **LLMs**, and **AI tools**.
+- 🧩 Passionate about **Software Architectures**: SOA, Microservices, RESTful APIs.
+- 🧰 Building scalable backend services using **Spring Boot**, **Node.js**, and **Express**.
+- 💻 Frontend craftsmanship with **Angular**, **React**, **Next.js**.
+- 🔭 Currently working on an **AI-powered CRM Appointment System**.
+- 💬 Ask me about anything from **architecture design** to **AI app development**.
+- 📫 Reach me at: **bannourimahmoud67@gmail.com**
+- 🌐 My portfolio: [mahmoudbannouri.vercel.app](https://mahmoudbannouri.vercel.app/)
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudbannouri&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=mahmoudbannouri&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudbannouri&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+#### ⚙️ Frameworks & Architectures
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next JS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00BFFF?style=for-the-badge&logoColor=white)
+![SOA](https://img.shields.io/badge/SOA-008080?style=for-the-badge)
+
+#### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### ⚒️ Dev Tools
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### 🧪 AI & Automation
+![LangChain](https://img.shields.io/badge/LangChain-4B4B4B?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![2Captcha](https://img.shields.io/badge/2Captcha-0e74b4?style=for-the-badge)
+
+---
+
+### 🌍 Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/mahmoudbannouri" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud bannouri" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://fb.com/mahmoudbannouri" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud bannouri" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- AI & Data -->
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/></a>
+### ✨ Fun Fact
 
-  <!-- Frontend -->
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
+🏋️‍♂️ I love going to the gym and pushing boundaries — just like I do in code!
 
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/></a>
+---
 
-  <!-- Database -->
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a>
+### 📌 Featured Projects
 
-  <!-- Tools & Others -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
-  <a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" /></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-</p>
+- 🧠 **AI Agent System** – Personal assistant using OpenAI & LangChain.
+- 🏢 **CRM Appointment App** – Built with Angular, Spring Boot & Prisma.
+- 🏦 **Vault Mate Bank** – Web/desktop banking platform using Symfony & JavaFX.
+- 📱 **Student Time Manager** – Mobile app built with FlutterFlow + Firebase.
+- ⚙️ **Urgence Detection System** – Arduino + C++ lamp alert system.
+- 🍽️ **Restaurant Website** – Full-stack responsive site with PHP & JS.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudbannouri&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="stats" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=mahmoudbannouri&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="contributions" />
 </p>
+
