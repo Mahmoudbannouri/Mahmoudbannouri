@@ -20,38 +20,7 @@
 * 🧠 **Gemini-tuned LLM** that generates LinkedIn posts, emails, and event recommendations
 * 📩 Sends emails by name, checks calendars, and prioritizes your agenda
 
----
 
-### 🔍 Summary of Experience
-
-#### 💼 Freelance Developer (2023 - Present)
-
-* Developing full-stack apps and AI tools with clients remotely.
-
-#### 🏢 Trends Company — Full Stack Developer (June - Aug 2024)
-
-* Built and deployed a professional web application.
-* Stack: **Next.js, Node.js, Express.js**, with **UML** system modeling.
-* Learned agile team workflows and delivery processes.
-
-#### 🛠️ Military Base Omrane — Web Dev Intern (June - July 2022)
-
-* Developed a time management web app (HTML/JS/PHP).
-* Focused on user experience, back-end functionality, and team collaboration.
-
----
-
-### 📌 Notable Projects
-
-* 🔐 **Vault Mate Bank** – Symfony + JavaFX interactive banking system
-* 📱 **FlutterFlow Mobile App** – Time management app with Firebase
-* 🏢 **CRM Appointment App** – Built with Angular + Spring Boot + Prisma
-* 🤖 **AI Agent LAURA** – Your smart assistant for email, events, and LinkedIn automation
-* 📊 **ML Course Recommender** – Python/Flask + TF-IDF + KMeans clustering
-* 💡 **Urgence Detection System** – Arduino-based maintenance alert system
-* 🍽️ **Restaurant Website** – HTML/CSS/JS/PHP front-end project
-
----
 
 ### 🧰 Tech Stack
 
