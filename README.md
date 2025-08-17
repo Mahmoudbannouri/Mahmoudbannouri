@@ -62,11 +62,11 @@
 ---
 
 ### 🏅 Certifications
-
+* ✅ Attendance Hashgraph Developer
 * ✅ Artificial Intelligence Fundamentals
-* [cite_start]✅ Agile Project Management [cite: 13]
-* [cite_start]✅ Responsive Web Design [cite: 14]
-* [cite_start]✅ Front-End Development Libraries [cite: 14]
+* ✅ Agile Project Management 
+* ✅ Responsive Web Design 
+* ✅ Front-End Development Libraries
 * ✅ Java Programming
 
 ---
