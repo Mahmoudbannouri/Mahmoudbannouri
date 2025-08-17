@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mahmoud Bannouri</h1>
-<h3 align="center">🚀 Engineering Student | AI Solutions & Architecture Specialist</h3>
+<h3 align="center">🚀 Engineering Student | AI, Big Data & Architecture Specialist | Aspiring Product Leader</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
@@ -9,9 +9,13 @@
 
 ### 🧠 About Me
 
-🎓 I'm a final-year **Software Engineering student** at **ESPRIT** (graduating in 2026), currently contributing to **Trends Company**. My expertise lies in the **integration, development, and architectural design of AI solutions**.
+🎓 I'm a final-year **Software Engineering student** at **ESPRIT** (graduating in 2027), based in Bizerte, Tunisia. [cite_start]I'm currently contributing as a **Software Developer at Trends Company**, focusing on web solutions and gaining hands-on experience in **system design, API integration, and agile development workflows**[cite: 27, 28, 29, 30, 31, 32].
 
-💡 I specialize in **Service-Oriented Architectures (SOA)**, **Microservices**, and leveraging **Large Language Models (LLMs)**. My work encompasses **prompt engineering** and **fine-tuning AI models** to create robust and innovative solutions.
+💡 My core expertise lies in the **integration, development, and architectural design of cutting-edge AI solutions**. I specialize in **Service-Oriented Architectures (SOA)**, **Microservices**, and leveraging **Large Language Models (LLMs)**. My work encompasses **prompt engineering** and **fine-tuning AI models** to create robust and innovative solutions, including **Machine Learning**, **Deep Learning**, and **Generative AI**.
+
+📊 I also possess a strong foundation in **Big Data** and **Business Intelligence (BI) fundamentals**, including **Key Performance Indicators (KPIs)** and practical experience with tools like **Power BI**. My deep understanding of **Linux processes and threads** further enhances my technical capabilities for efficient system management.
+
+[cite_start]🚀 Beyond coding, I'm a software developer with a clear vision for **product leadership**, passionate about building impactful, user-centered solutions and evolving into a **product owner and team leader**[cite: 19, 20, 24]. [cite_start]I focus on aligning product decisions with user needs, business goals, and long-term scalability, having worked in both **B2B and B2C contexts**[cite: 22, 23].
 
 ---
 
@@ -43,6 +47,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white)
 
 #### 🧠 AI & Automation
 
@@ -50,31 +55,34 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-AF57FF?style=for-the-badge)
 ![Azure TTS/STT](https://img.shields.io/badge/Azure-A0C3FF?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6600?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-5D3FD3?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge)
 
 ---
 
 ### 🏅 Certifications
 
 * ✅ Artificial Intelligence Fundamentals
-* ✅ Agile Project Management
-* ✅ Responsive Web Design
-* ✅ Front-End Development Libraries
+* [cite_start]✅ Agile Project Management [cite: 13]
+* [cite_start]✅ Responsive Web Design [cite: 14]
+* [cite_start]✅ Front-End Development Libraries [cite: 14]
 * ✅ Java Programming
 
 ---
 
 ### 🌐 Languages
 
-* 🇹🇳 Arabic – Native
-* 🇬🇧 English – Professional
-* 🇫🇷 French – Professional
+* [cite_start]🇹🇳 Arabic – Native [cite: 10]
+* [cite_start]🇬🇧 English – Professional [cite: 11]
+* [cite_start]🇫🇷 French – Professional [cite: 11]
 
 ---
 
 ### 📬 Contact Me
 
-* 📧 **Email**: [bannourimahmoud67@gmail.com](mailto:bannourimahmoud67@gmail.com)
-* 🔗 **LinkedIn**: [mahmoudbannouri](https://www.linkedin.com/in/mahmoudbannouri)
+* [cite_start]📧 **Email**: [bannourimahmoud67@gmail.com](mailto:bannourimahmoud67@gmail.com) [cite: 2]
+* [cite_start]🔗 **LinkedIn**: [mahmoudbannouri](https://www.linkedin.com/in/mahmoudbannouri) [cite: 4]
 * 🌍 **Portfolio**: [mahmoudbannouri.vercel.app](https://mahmoudbannouri.vercel.app)
 
 ---
