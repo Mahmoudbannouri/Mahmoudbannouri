@@ -11,7 +11,7 @@
 
 🎓 I'm a final-year **Software Engineering student** at **ESPRIT** (graduating in 2027), based in Bizerte, Tunisia. I'm currently contributing as a **Software Developer at Trends Company**, focusing on web solutions and gaining hands-on experience in **system design, API integration, and agile development workflows**.
 
-💡 My core expertise lies in the **integration, development, and architectural design of cutting-edge AI solutions**. I specialize in **Service-Oriented Architectures (SOA)**, **Microservices**, and leveraging **Large Language Models (LLMs)**. My work encompasses **prompt engineering** and **fine-tuning AI models** to create robust and innovative solutions, including **Machine Learning**, **Deep Learning**, and **Generative AI**.
+💡 My core expertise lies in the **integration, development, and architectural design of cutting-edge AI solutions**. I specialize in **Service-Oriented Architectures (SOA)**, **Microservices**, and leveraging **Large Language Models (LLMs)**. My work encompasses **prompt engineering** and **fine-tuning AI models** to create robust and innovative solutions, including **Machine Learning**, **Deep Learning**, and **Generative AI**. I also have experience developing automation solutions using **n8n** for tasks like **calendar event management, Gmail sending, and LinkedIn post creation**.
 
 📊 I also possess a strong foundation in **Big Data** and **Business Intelligence (BI) fundamentals**, including **Key Performance Indicators (KPIs)** and practical experience with tools like **Power BI**. My deep understanding of **Linux processes and threads** further enhances my technical capabilities for efficient system management.
 
@@ -58,31 +58,32 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6600?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-5D3FD3?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-FF6200?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
 ### 🏅 Certifications
-* ✅ Attendance Hashgraph Developer
+* [cite_start]✅ Attendance Hashgraph Developer [cite: 15]
 * ✅ Artificial Intelligence Fundamentals
-* ✅ Agile Project Management 
-* ✅ Responsive Web Design 
-* ✅ Front-End Development Libraries
+* [cite_start]✅ Agile Project Management [cite: 13]
+* [cite_start]✅ Responsive Web Design [cite: 14]
+* [cite_start]✅ Front-End Development Libraries [cite: 14]
 * ✅ Java Programming
 
 ---
 
 ### 🌐 Languages
 
-* 🇹🇳 Arabic – Native 
-* 🇬🇧 English – B2 
-* 🇫🇷 French – B2
+* [cite_start]🇹🇳 Arabic – Native or Bilingual [cite: 10]
+* [cite_start]🇬🇧 English – Professional Working [cite: 11]
+* [cite_start]🇫🇷 French – Professional Working [cite: 11]
 
 ---
 
 ### 📬 Contact Me
 
-* 📧 **Email**: [bannourimahmoud67@gmail.com](mailto:bannourimahmoud67@gmail.com) 
-* 🔗 **LinkedIn**: [mahmoudbannouri](https://www.linkedin.com/in/mahmoudbannouri) 
+* [cite_start]📧 **Email**: [bannourimahmoud67@gmail.com](mailto:bannourimahmoud67@gmail.com) [cite: 2]
+* [cite_start]🔗 **LinkedIn**: [mahmoudbannouri](https://www.linkedin.com/in/mahmoudbannouri) [cite: 4]
 * 🌍 **Portfolio**: [mahmoudbannouri.vercel.app](https://mahmoudbannouri.vercel.app)
 
 ---
@@ -98,7 +99,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mahmoudbannouri&theme=radical" />
 </p>
 
-
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=mahmoudbannouri&theme=github-dark" />
+</p>
 
 ---
 
