@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-🎓 I'm a final-year **Software Engineering student** at **ESPRIT** (graduating in 2027), based in Bizerte, Tunisia. I'm currently contributing as a **Software Developer at Trends Company**, focusing on web solutions and gaining hands-on experience in **system design, API integration, and agile development workflows**.
+🎓 I'm a final-year **Software Engineering student** at **ESPRIT** (graduating in 2026), based in Bizerte, Tunisia. I'm currently contributing as a **Software Developer at Trends Company**, focusing on web solutions and gaining hands-on experience in **system design, API integration, and agile development workflows**.
 
 💡 My core expertise lies in the **integration, development, and architectural design of cutting-edge AI solutions**. I specialize in **Service-Oriented Architectures (SOA)**, **Microservices**, and leveraging **Large Language Models (LLMs)**. My work encompasses **prompt engineering** and **fine-tuning AI models** to create robust and innovative solutions, including **Machine Learning**, **Deep Learning**, and **Generative AI**. I also have experience developing automation solutions using **n8n** for tasks like **calendar event management, Gmail sending, and LinkedIn post creation**.
 
@@ -63,27 +63,27 @@
 ---
 
 ### 🏅 Certifications
-* [cite_start]✅ Attendance Hashgraph Developer [cite: 15]
+* ✅ Attendance Hashgraph Developer 
 * ✅ Artificial Intelligence Fundamentals
-* [cite_start]✅ Agile Project Management [cite: 13]
-* [cite_start]✅ Responsive Web Design [cite: 14]
-* [cite_start]✅ Front-End Development Libraries [cite: 14]
+* ✅ Agile Project Management 
+* ✅ Responsive Web Design 
+* ✅ Front-End Development Libraries
 * ✅ Java Programming
 
 ---
 
 ### 🌐 Languages
 
-* [cite_start]🇹🇳 Arabic – Native or Bilingual [cite: 10]
-* [cite_start]🇬🇧 English – Professional Working [cite: 11]
-* [cite_start]🇫🇷 French – Professional Working [cite: 11]
+* 🇹🇳 Arabic – Native or Bilingual 
+* 🇬🇧 English – Professional Working 
+* 🇫🇷 French – Professional Working 
 
 ---
 
 ### 📬 Contact Me
 
-* [cite_start]📧 **Email**: [bannourimahmoud67@gmail.com](mailto:bannourimahmoud67@gmail.com) [cite: 2]
-* [cite_start]🔗 **LinkedIn**: [mahmoudbannouri](https://www.linkedin.com/in/mahmoudbannouri) [cite: 4]
+* 📧 **Email**: [bannourimahmoud67@gmail.com](mailto:bannourimahmoud67@gmail.com) 
+* 🔗 **LinkedIn**: [mahmoudbannouri](https://www.linkedin.com/in/mahmoudbannouri) 
 * 🌍 **Portfolio**: [mahmoudbannouri.vercel.app](https://mahmoudbannouri.vercel.app)
 
 ---
@@ -99,9 +99,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mahmoudbannouri&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mahmoudbannouri&theme=github-dark" />
-</p>
 
 ---
 
