@@ -98,9 +98,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mahmoudbannouri&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mahmoudbannouri&theme=github-dark" />
-</p>
+
 
 ---
 
