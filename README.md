@@ -9,13 +9,13 @@
 
 ### 🧠 About Me
 
-🎓 I'm a final-year **Software Engineering student** at **ESPRIT** (graduating in 2027), based in Bizerte, Tunisia. [cite_start]I'm currently contributing as a **Software Developer at Trends Company**, focusing on web solutions and gaining hands-on experience in **system design, API integration, and agile development workflows**[cite: 27, 28, 29, 30, 31, 32].
+🎓 I'm a final-year **Software Engineering student** at **ESPRIT** (graduating in 2027), based in Bizerte, Tunisia. I'm currently contributing as a **Software Developer at Trends Company**, focusing on web solutions and gaining hands-on experience in **system design, API integration, and agile development workflows**.
 
 💡 My core expertise lies in the **integration, development, and architectural design of cutting-edge AI solutions**. I specialize in **Service-Oriented Architectures (SOA)**, **Microservices**, and leveraging **Large Language Models (LLMs)**. My work encompasses **prompt engineering** and **fine-tuning AI models** to create robust and innovative solutions, including **Machine Learning**, **Deep Learning**, and **Generative AI**.
 
 📊 I also possess a strong foundation in **Big Data** and **Business Intelligence (BI) fundamentals**, including **Key Performance Indicators (KPIs)** and practical experience with tools like **Power BI**. My deep understanding of **Linux processes and threads** further enhances my technical capabilities for efficient system management.
 
-[cite_start]🚀 Beyond coding, I'm a software developer with a clear vision for **product leadership**, passionate about building impactful, user-centered solutions and evolving into a **product owner and team leader**[cite: 19, 20, 24]. [cite_start]I focus on aligning product decisions with user needs, business goals, and long-term scalability, having worked in both **B2B and B2C contexts**[cite: 22, 23].
+🚀 Beyond coding, I'm a software developer with a clear vision for **product leadership**, passionate about building impactful, user-centered solutions and evolving into a **product owner and team leader**. I focus on aligning product decisions with user needs, business goals, and long-term scalability, having worked in both **B2B and B2C contexts**.
 
 ---
 
