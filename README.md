@@ -73,16 +73,16 @@
 
 ### 🌐 Languages
 
-* [cite_start]🇹🇳 Arabic – Native [cite: 10]
-* [cite_start]🇬🇧 English – Professional [cite: 11]
-* [cite_start]🇫🇷 French – Professional [cite: 11]
+* 🇹🇳 Arabic – Native 
+* 🇬🇧 English – B2 
+* 🇫🇷 French – B2
 
 ---
 
 ### 📬 Contact Me
 
-* [cite_start]📧 **Email**: [bannourimahmoud67@gmail.com](mailto:bannourimahmoud67@gmail.com) [cite: 2]
-* [cite_start]🔗 **LinkedIn**: [mahmoudbannouri](https://www.linkedin.com/in/mahmoudbannouri) [cite: 4]
+* 📧 **Email**: [bannourimahmoud67@gmail.com](mailto:bannourimahmoud67@gmail.com) 
+* 🔗 **LinkedIn**: [mahmoudbannouri](https://www.linkedin.com/in/mahmoudbannouri) 
 * 🌍 **Portfolio**: [mahmoudbannouri.vercel.app](https://mahmoudbannouri.vercel.app)
 
 ---
