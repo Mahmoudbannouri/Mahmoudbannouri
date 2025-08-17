@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mahmoud Bannouri</h1>
-<h3 align="center">🚀 Full Stack Developer | Software Engineering Student | AI & Architecture Enthusiast</h3>
+<h3 align="center">🚀 Engineering Student | AI Solutions & Architecture Specialist</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
@@ -9,38 +9,31 @@
 
 ### 🧠 About Me
 
-🎓 I am a 4th-year Software Engineering student at **ESPRIT** (2022-2027), based in **Bizerte, Tunisia**, with a passion for building full-stack solutions using modern tools and architectural paradigms.
-🔧 Specializing in **Microservices**, **SOA**, and **Monolithic Architectures** across **web**, **desktop**, and **backend systems**.
-🧩 My projects are driven by architecture-first thinking, data integration, and automation.
+🎓 I'm a final-year **Software Engineering student** at **ESPRIT** (graduating in 2027), currently contributing to **Trends Company**. My expertise lies in the **integration, development, and architectural design of AI solutions**.
 
-🔬 I recently developed a cutting-edge AI agent: **LAURA** 🧠 — a voice-enabled LLM-based assistant that integrates:
+💡 I specialize in **Service-Oriented Architectures (SOA)**, **Microservices**, and leveraging **Large Language Models (LLMs)**. My work encompasses **prompt engineering** and **fine-tuning AI models** to create robust and innovative solutions.
 
-* 🔁 **FuzzyWuzzy Matching** for smart contact lookup
-* 💬 **Azure TTS & STT** for real-time communication
-* 🧠 **Gemini-tuned LLM** that generates LinkedIn posts, emails, and event recommendations
-* 📩 Sends emails by name, checks calendars, and prioritizes your agenda
-
-
+---
 
 ### 🧰 Tech Stack
 
 #### 👨‍💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
 
 #### 🚀 Frameworks & Architectures
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-00BFFF?style=for-the-badge)
 ![SOA](https://img.shields.io/badge/SOA-008080?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge)
 
 #### 🗄 Databases & Tools
 
@@ -62,11 +55,11 @@
 
 ### 🏅 Certifications
 
+* ✅ Artificial Intelligence Fundamentals
+* ✅ Agile Project Management
 * ✅ Responsive Web Design
 * ✅ Front-End Development Libraries
 * ✅ Java Programming
-* ✅ Agile Project Management
-* ✅ Artificial Intelligence Fundamentals
 
 ---
 
