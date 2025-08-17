@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-🎓 I'm a final-year **Software Engineering student** at **ESPRIT** (graduating in 2027), currently contributing to **Trends Company**. My expertise lies in the **integration, development, and architectural design of AI solutions**.
+🎓 I'm a final-year **Software Engineering student** at **ESPRIT** (graduating in 2026), currently contributing to **Trends Company**. My expertise lies in the **integration, development, and architectural design of AI solutions**.
 
 💡 I specialize in **Service-Oriented Architectures (SOA)**, **Microservices**, and leveraging **Large Language Models (LLMs)**. My work encompasses **prompt engineering** and **fine-tuning AI models** to create robust and innovative solutions.
 
