@@ -180,9 +180,3 @@ A powerful AI-driven **market intelligence** & **idea validation** platform usin
 >
 > ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahmoudbannouri/mahmoudbannouri/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
