@@ -177,3 +177,12 @@ A powerful AI-driven **market intelligence** & **idea validation** platform usin
 
 > 🚀 *I’m always ready to collaborate on challenging and high-impact projects, especially those blending AI, system architecture, and product design.*  
 > Let’s build something meaningful.
+>
+> ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahmoudbannouri/mahmoudbannouri/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
