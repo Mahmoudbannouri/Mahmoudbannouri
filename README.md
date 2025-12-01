@@ -135,8 +135,7 @@ A powerful AI-driven **market intelligence** & **idea validation** platform usin
 
 ## 🏅 Certifications  
 
-- ✔ **AI Agents and Agentic AI – 365 Data Science (Nov 2025)**  
-  *Credential ID: CC-2912D70089*  
+- ✔ AI Agents and Agentic AI – 365 Data Science 
 - ✔ Hashgraph Developer (Hedera)  
 - ✔ Artificial Intelligence Fundamentals  
 - ✔ Agile Project Management  
