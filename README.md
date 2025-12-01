@@ -91,7 +91,18 @@ My goal is to evolve into a **Product Owner / Technical Lead**, combining engine
 ---
 
 ## 🏆 Featured Projects  
-*(You can later add links to repos)*
+
+### 🏛️ **AI Research Platform (SaaS Edition)**  
+A powerful AI-driven **market intelligence** & **idea validation** platform using **Next.js 15, Supabase, Ollama (Llama 3)**, and multi-agent AI flows.
+
+- AI Idea Validator (0–10 scoring with breakdowns)  
+- Market, Competitor & Signals Agents  
+- Executive Summary Reports  
+- Supabase Auth + Modern Dashboard  
+- Local AI (Ollama) + Tavily Search + Google Trends  
+- Sequential AI orchestration & real-time progress visualization  
+
+---
 
 ### 🕌 **UmrahDeals** *(B2B/B2C Umrah management platform)*
 - Full travel management system  
@@ -124,6 +135,8 @@ My goal is to evolve into a **Product Owner / Technical Lead**, combining engine
 
 ## 🏅 Certifications  
 
+- ✔ **AI Agents and Agentic AI – 365 Data Science (Nov 2025)**  
+  *Credential ID: CC-2912D70089*  
 - ✔ Hashgraph Developer (Hedera)  
 - ✔ Artificial Intelligence Fundamentals  
 - ✔ Agile Project Management  
@@ -165,4 +178,3 @@ My goal is to evolve into a **Product Owner / Technical Lead**, combining engine
 
 > 🚀 *I’m always ready to collaborate on challenging and high-impact projects, especially those blending AI, system architecture, and product design.*  
 > Let’s build something meaningful.
-
