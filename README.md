@@ -159,18 +159,10 @@ A powerful AI-driven **market intelligence** & **idea validation** platform usin
 🌍 Portfolio: **https://mahmoudbannouri.vercel.app**
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudbannouri&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=mahmoudbannouri&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudbannouri&theme=radical" />
-</p>
-
+📊 GitHub Stats
+<p align="center"> <!-- Main Stats --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoudbannouri&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/> <!-- Top Languages --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudbannouri&layout=compact&langs_count=10&theme=radical"/> </p> <p align="center"> <!-- Streak --> <img src="https://streak-stats.demolab.com?user=mahmoudbannouri&theme=radical" /> </p> <p align="center"> <!-- Trophies --> <img src="https://github-profile-trophy.vercel.app/?username=mahmoudbannouri&theme=radical&no-bg=true&margin-w=15" /> </p>
+🐍 Snake Contribution Animation
+<p align="center"> <img src="https://github.com/mahmoudbannouri/mahmoudbannouri/blob/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
 ---
 
 ## 💬 Final Note  
