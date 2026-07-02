@@ -75,17 +75,7 @@ Software engineer at **Trends Digital Company** and final-year engineering stude
 
 
 
-## 🔥 Consistency
 
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Mahmoudbannouri&theme=tokyonight&hide_border=true&background=00000000&ring=1FB0A5&fire=1FB0A5&currStreakLabel=1FB0A5&sideLabels=3666AF" height="180"/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahmoudbannouri&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoudbannouri&theme=tokyo-night&hide_border=true&bg_color=00000000&color=3666AF&line=1FB0A5&point=1FB0A5&area=true&area_color=1FB0A5" width="100%"/>
-
-</div>
 
 
 
