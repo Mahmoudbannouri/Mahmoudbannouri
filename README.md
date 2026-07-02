@@ -71,15 +71,8 @@ Software engineer at **Trends Digital Company** and final-year engineering stude
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-## 📊 GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoudbannouri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudbannouri&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-</div>
 
 <details>
 <summary>🏅 <b>Certifications</b></summary>
