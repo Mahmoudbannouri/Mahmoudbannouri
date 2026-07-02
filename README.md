@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3666AF,100:1FB0A5&height=190&section=header&text=Mahmoud%20Bannouri&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20AI&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3666AF,100:1FB0A5&height=210&section=header&text=Mahmoud%20Bannouri&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20AI&descSize=18&descAlignY=57" width="100%"/>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=1FB0A5&center=true&vCenter=true&width=560&lines=Full-Stack+Engineering+%E2%80%94+Web+%26+Mobile;Cloud%2C+CI%2FCD+%26+Server+Management;AI+Solutions+%26+Intelligent+Automation;Scalable%2C+Modern+Architectures" alt="Typing SVG" /></a>
 
